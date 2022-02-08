@@ -1,0 +1,64 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+03. Asset/
+03. Asset.meta
+Animated Loading Icons/
+Animated Loading Icons.meta
+Furniture_ges1/
+Furniture_ges1.meta
+Photon/
+Photon.meta
+Sounds/
+Sounds.meta
+Fonts/
+Fonts.meta
+SU3DJPFont/
+SU3DJPFont.meta
+TextMesh Pro/
+TextMesh Pro.meta
+
+/[Mm]emoryCaptures/
+
+.vs/
+.vscode/
+.vsconfig
+
+.gradle/
+
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sin
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.mdb
+*.opendb
+*.VC.db
+
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+*.swp
+
+sysinfo.txt
+
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+crashlytics-build.properties
+
+
+.DS_Store
